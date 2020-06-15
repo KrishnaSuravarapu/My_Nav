@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".util.MessageScreen">
+    tools:context="com.example.SMSManager.util.MessageScreen">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_individual"
